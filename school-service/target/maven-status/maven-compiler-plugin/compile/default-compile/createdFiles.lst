@@ -1,0 +1,6 @@
+com\mgs\schoolservice\SchoolServiceApplication.class
+com\mgs\schoolservice\services\SchoolServiceHystrix.class
+com\mgs\schoolservice\models\Student.class
+com\mgs\schoolservice\util\SchoolServiceInfoContributor.class
+com\mgs\schoolservice\models\School.class
+com\mgs\schoolservice\controller\SchoolServiceController.class

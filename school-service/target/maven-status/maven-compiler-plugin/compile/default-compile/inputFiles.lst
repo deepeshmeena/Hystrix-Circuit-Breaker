@@ -1,0 +1,6 @@
+D:\Spring Workspace\school-service\src\main\java\com\mgs\schoolservice\SchoolServiceApplication.java
+D:\Spring Workspace\school-service\src\main\java\com\mgs\schoolservice\models\School.java
+D:\Spring Workspace\school-service\src\main\java\com\mgs\schoolservice\models\Student.java
+D:\Spring Workspace\school-service\src\main\java\com\mgs\schoolservice\services\SchoolServiceHystrix.java
+D:\Spring Workspace\school-service\src\main\java\com\mgs\schoolservice\util\SchoolServiceInfoContributor.java
+D:\Spring Workspace\school-service\src\main\java\com\mgs\schoolservice\controller\SchoolServiceController.java

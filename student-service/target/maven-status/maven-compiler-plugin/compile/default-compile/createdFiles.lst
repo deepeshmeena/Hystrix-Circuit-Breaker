@@ -1,0 +1,5 @@
+com\mgs\studentservice\controller\StudentServiceController.class
+com\mgs\studentservice\util\StudentServiceInfoContributor.class
+com\mgs\studentservice\controller\School.class
+com\mgs\studentservice\controller\Student.class
+com\mgs\studentservice\StudentServiceApplication.class
